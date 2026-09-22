@@ -373,6 +373,7 @@ tbody tr:hover {
                 echo "<td>{$user['email']}</td>";
                 echo "<td>{$user['username']}</td>";
                 echo "</tr>";
+                
             }
             ?>
         </thead>
